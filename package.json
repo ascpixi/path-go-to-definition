@@ -2,7 +2,7 @@
   "name": "path-go-to-definition",
   "displayName": "Path Go To Definition",
   "description": "Extends the \"Go to Definition\" (F12) action to support file paths in strings",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "ascpixi"
   },
